@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PW6HVckAxzA=",
+  "dgSpecHash": "OYm2jvv428o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Franco\\Documents\\GitHub\\Proyecto_InstitutoDeIdiomas\\Proyecto_InstitutoDeIdiomas.csproj",
+  "projectFilePath": "C:\\Users\\Noxie-PC\\Documents\\Lab2\\Proyecto_InstitutoDeIdiomas\\Proyecto_InstitutoDeIdiomas.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
-    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+    "C:\\Users\\Noxie-PC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Noxie-PC\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
   ],
   "logs": []
 }

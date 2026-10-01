@@ -83,19 +83,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Franco\\.nuget\\packages\\": {}
+    "C:\\Users\\Noxie-PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Franco\\Documents\\GitHub\\Proyecto_InstitutoDeIdiomas\\Proyecto_InstitutoDeIdiomas.csproj",
+      "projectUniqueName": "C:\\Users\\Noxie-PC\\Documents\\Lab2\\Proyecto_InstitutoDeIdiomas\\Proyecto_InstitutoDeIdiomas.csproj",
       "projectName": "Proyecto_InstitutoDeIdiomas",
-      "projectPath": "C:\\Users\\Franco\\Documents\\GitHub\\Proyecto_InstitutoDeIdiomas\\Proyecto_InstitutoDeIdiomas.csproj",
-      "packagesPath": "C:\\Users\\Franco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Franco\\Documents\\GitHub\\Proyecto_InstitutoDeIdiomas\\obj\\",
+      "projectPath": "C:\\Users\\Noxie-PC\\Documents\\Lab2\\Proyecto_InstitutoDeIdiomas\\Proyecto_InstitutoDeIdiomas.csproj",
+      "packagesPath": "C:\\Users\\Noxie-PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Noxie-PC\\Documents\\Lab2\\Proyecto_InstitutoDeIdiomas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Franco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Noxie-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
